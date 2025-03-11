@@ -26,7 +26,7 @@ export async function POST(req) {
         <p>${message}</p>
       `,
     });
-
+    // new comments added
     console.log("Email sent data:", data);  // Log the response for debugging
 
     if (data?.error) {
