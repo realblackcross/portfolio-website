@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl"> 
-            I am a Computer Science Engineering student at Chandigarh University, passionate about software development and problem-solving. Aspiring to work in innovative and challenging environments, I continuously learn new technologies to stay ahead in the evolving tech landscape. With adaptability, creativity, and resourcefulness, I strive to contribute meaningfully to my organization’s success while growing into a well-rounded professional.
+            I am a Computer Science Engineer graduated from Chandigarh University, passionate about software development and problem-solving. Aspiring to work in innovative and challenging environments, I continuously learn new technologies to stay ahead in the evolving tech landscape. With adaptability, creativity, and resourcefulness, I strive to contribute meaningfully to my organization’s success while growing into a well-rounded professional.
           </p>
           <div> 
             <button 
