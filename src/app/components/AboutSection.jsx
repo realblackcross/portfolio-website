@@ -19,10 +19,10 @@ const TAB_DATA = [
                     <tbody>
                         <tr className="border-b">
                             <td className="px-4 py-2 border-r">Node.js</td>
-                            <td className="px-4 py-2">Intermediate</td>
+                            <td className="px-4 py-2">Beginner</td>
                         </tr>
                         <tr className="border-b">
-                            <td className="px-4 py-2 border-r">Express</td>
+                            <td className="px-4 py-2 border-r">Python</td>
                             <td className="px-4 py-2">Beginner</td>
                         </tr>
                         <tr className="border-b">
@@ -146,7 +146,7 @@ const AboutSection = () => {
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
                     <p className="text-base lg:text-lg">
-                        Hi, I'm Akarsh Tyagi, a passionate Web Developer with a strong foundation in Next.js, React, JavaScript, HTML, CSS, tailwindCSS, and modern web technologies. I specialize in building responsive, dynamic, and user-friendly web applications. I love transforming ideas into interactive digital experiences, focusing on performance, accessibility, and seamless user experience. Always eager to learn and explore new technologies, I strive to create efficient and scalable solutions.
+                        Hi, I'm Akarsh Tyagi, a passionate software engineering, Web Developer with a strong foundation in Python, Java, Next.js, React, JavaScript, HTML, CSS, tailwindCSS, and modern web technologies. I specialize in building responsive, dynamic, and user-friendly web applications. I love transforming ideas into interactive digital experiences, focusing on performance, accessibility, and seamless user experience. Always eager to learn and explore new technologies, I strive to create efficient and scalable solutions.
                     </p>
                     <div className="flex flex-row justify-start mt-8">
                         <TabButton 
